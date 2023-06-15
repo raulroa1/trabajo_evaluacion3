@@ -1,5 +1,4 @@
 menu=True
-opcion1=0
 
 def menu1():
     print("----------------BIENVENIDO A LA CALCULADORA DE ROA---------------\n1.-Suma\n2.-Resta\n3.-Multiplicar\n4.-Dividir\n5.-Salir")
